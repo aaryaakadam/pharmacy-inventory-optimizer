@@ -10,6 +10,6 @@ Predict weekly drug demand to prevent stockouts & expiry losses.
 # Tech Stack
 -Python | Pandas | Prophet | Streamlit | MySQL
 
-#Run
+# Run
 ``cmd
 py -m streamlit run pharmacy_optimizer.py
